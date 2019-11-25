@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mikecao.me
+Token: 1e2db5ba5f6c294839dbbe780918a86c2581bf2192b4b9dff7133a2f8a517db8
