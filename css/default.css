@@ -756,6 +756,11 @@ properly.
 @media only screen and (max-width: 460px) {
 
    .row { width: auto; }
+   .button{
+      position: relative;
+      font-size: 13.5px;
+      left: 40px;
+   }
 
 }
 

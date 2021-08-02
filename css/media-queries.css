@@ -217,7 +217,7 @@
    -------------------------------------------------------------------- */
    #about .profile-pic { display: none; }
    #about .download .button {
-      width: 100%;
+      width: 112%;
       text-align: center;
       padding: 15px 20px;
    }
